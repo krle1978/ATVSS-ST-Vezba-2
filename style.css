@@ -41,4 +41,10 @@
     margin-top: 20px; /* Razmak između pretrage i rezultata */
   }
   
-  
+  #debounce-toggle {
+    margin-left: 10px;
+}
+
+label {
+    margin-left: 5px;
+}
